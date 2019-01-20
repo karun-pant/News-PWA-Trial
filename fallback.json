@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "title": "Dog failed to get the article. Found crab instead",
+      "description": "Try sending the dog agin when you are connected to internet.",
+      "url": "",
+      "urlToImage": "images/fallback.jpg"
+    }
+  ]
+}
